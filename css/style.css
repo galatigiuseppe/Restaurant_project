@@ -647,3 +647,13 @@ footer p{
 .ion-social-googleplus:hover {
    color: #dd4b39;
 }
+
+/* animation*/
+
+.js--wp-1{
+    opacity: 0;
+}
+
+.js--wp-1.animated{
+    opacity:1;
+}
