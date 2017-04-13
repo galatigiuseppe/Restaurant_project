@@ -64,7 +64,7 @@ $(document).ready(function(){
 
                 $(".js--wp-4").addClass("animated pulse");
             }, {
-                offset: "50%"
+                offset: "20%"
             });
 
                 /* Mobile navigation */
