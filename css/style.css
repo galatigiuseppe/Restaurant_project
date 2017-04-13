@@ -648,6 +648,15 @@ footer p{
    color: #dd4b39;
 }
 
+
+.image-resize{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+
 /* animation*/
 
 .js--wp-1,
